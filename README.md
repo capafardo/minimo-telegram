@@ -2,6 +2,16 @@
 
 Um robô de conversas simples, modular e fácil de entender, criado especialmente para quem está dando os primeiros passos no desenvolvimento de chatbots e Processamento de Linguagem Natural (PLN) com Python.
 
+---
+
+### 🗺️ Fluxo de Funcionamento
+
+O diagrama abaixo ilustra o ciclo de vida de uma mensagem desde o envio pelo usuário até o processamento e resposta pelo código Python:
+
+![Fluxo de Funcionamento do Chatbot no Telegram](assets/fluxo_chatbot.png)
+
+---
+
 
 
 ## 📁 Estrutura dos Arquivos
